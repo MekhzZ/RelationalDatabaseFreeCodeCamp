@@ -6,6 +6,8 @@ This project is a relational database designed to store information about a simp
 **Technologies Used:**
 * **PostgreSQL**
 * **psql**
+* **Docker**
+* **Linux**
 
 ## Database Schema
 Below is the Entity-Relationship (ER) diagram for the database, which illustrates the tables, their columns, and the relationships between them.
