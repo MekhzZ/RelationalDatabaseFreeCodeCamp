@@ -12,4 +12,4 @@ This project is a relational database designed to store information about a simp
 ## Database Schema
 Below is the Entity-Relationship (ER) diagram for the database, which illustrates the tables, their columns, and the relationships between them.
 
-![Celestial Bodies Database ER Diagram](CelestialBodiesDatabase.png)
+![Celestial Bodies Database ER Diagram](CelestialBodiesDatabase.drawio.png)
