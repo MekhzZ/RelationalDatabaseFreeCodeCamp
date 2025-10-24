@@ -26,10 +26,11 @@ The script provides a command-line interface for customers to book services and 
 
 - ```salon.sql``` : A PostgreSQL database dump file containing all the necessary ```CREATE DATABASE```, ```CREATE TABLE```, and ```INSERT``` commands to rebuild the entire salon database and its initial data.
 
-- ```salon_assessment.txt``` : An assessment provided by freecodecamp which I have to complete in order to pass for certification.
-
 ## Database Schema
-![alt text](SalonAppointmentSchedulerERD.drawio.png)
+![Entity-Relationship Diagram of Database](assets/SalonAppointmentSchedulerERD.drawio.png)
+
+## Demo
+[Click here to see the Demo video !](https://youtu.be/dXJwGURAkEQ)
 
 ## Learnings
 This project reinforced practical skills in database scripting and command-line programming:
