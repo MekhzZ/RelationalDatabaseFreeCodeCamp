@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /bin/bash 
 
 PSQL="psql --username=freecodecamp --dbname=salon -t --no-align -c"
 
