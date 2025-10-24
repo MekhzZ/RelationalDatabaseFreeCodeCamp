@@ -30,7 +30,7 @@ The application allows users (customers) to interact with the system via a shell
 ![Database schema of Bike Shop](assets/BikeShop.drawio.png)
 
 ## Demo
-[![Click to Watch Demo](assets/BikeShopDemoThumbnail.png)](https://youtu.be/gmmCyFcucCs)
+[Click here to Watch Demo !](https://youtu.be/gmmCyFcucCs)
 
 ## Learnings
 This project was a practical exercise in applying core relational database concepts:
