@@ -30,7 +30,7 @@ The application allows users (customers) to interact with the system via a shell
 ![Database schema of Bike Shop](assets/BikeShop.drawio.png)
 
 ## Demo
-<video src="assets/BikeShopDemo.mp4" controls width="1000" autoplay loop muted>
+<video src="assets/BikeShopDemo.mp4" controls width="600" autoplay loop muted>
   Sorry, your browser doesn't support embedded videos.
 </video>
 
