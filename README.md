@@ -6,3 +6,6 @@ A personal repository to track learning and practice exercises from FreeCodeCamp
 - You can go through each folder to explore it's own README.
 
 - Cerification: https://www.freecodecamp.org/certification/mekhma/relational-database-v8
+
+## Timeline
+!["Timeline"](BikeRentalShop/assets/ProcessTimeline.png)
