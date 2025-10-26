@@ -4,3 +4,5 @@ A personal repository to track learning and practice exercises from FreeCodeCamp
 - It follows the course URL: https://www.freecodecamp.org/learn/relational-database/#build-a-number-guessing-game-project
 
 - You can go through each folder to explore it's own README.
+
+- Cerification: https://www.freecodecamp.org/certification/mekhma/relational-database-v8
